@@ -19,7 +19,7 @@ This project is my submission for the Kaggle competition ["House Prices: Advance
 
 ## Performance
 
-My best submission achieved a **0.12021** on the Kaggle leaderboard (include your actual score here). You can view my ranking on the competition leaderboard.
+My best submission achieved a **0.12021** on the Kaggle leaderboard. You can view my ranking on the competition leaderboard.
 
 ![Score](https://github.com/user-attachments/assets/84e4a207-f2ab-495d-b746-6ded6485253d)
 
