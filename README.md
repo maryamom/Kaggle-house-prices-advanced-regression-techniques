@@ -52,10 +52,3 @@ pip install pandas numpy scikit-learn xgboost lightgbm catboost matplotlib seabo
   4. Year built
 * The stacking ensemble approach provided the best performance among tested models
 * Feature engineering (particularly handling skewed features) significantly improved model accuracy
-
-## Future Improvements
-
-* Experiment with more advanced feature engineering
-* Try additional ensemble methods
-* Perform more thorough hyperparameter tuning
-* Explore neural network approaches
